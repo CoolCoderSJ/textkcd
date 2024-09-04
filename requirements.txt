@@ -1,0 +1,5 @@
+apscheduler
+flask
+flata
+feedparser
+python-dotenv
